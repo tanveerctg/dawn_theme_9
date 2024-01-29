@@ -107,6 +107,12 @@
             "text": "Helllo",
             "text_style": "body"
           }
+        },
+        "sku_cpKDpm": {
+          "type": "sku",
+          "settings": {
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
@@ -124,7 +130,8 @@
         "collapsible-row-2",
         "collapsible-row-3",
         "share",
-        "text_KtPrrT"
+        "text_KtPrrT",
+        "sku_cpKDpm"
       ],
       "settings": {
         "enable_sticky_info": true,
